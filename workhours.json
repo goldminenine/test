@@ -1,162 +1,29 @@
-[
-	{
-		"KEY" : "4IG",
-		"workhours" : 111.00
-	},
-	{
-		"KEY" : "ART",
-		"workhours" : 3649.08
-	},
-	{
-		"KEY" : "BB",
-		"workhours" : 3488.08
-	},
-	{
-		"KEY" : "BOR",
-		"workhours" : 60.50
-	},
-	{
-		"KEY" : "DEVOPS",
-		"workhours" : 2457.00
-	},
-	{
-		"KEY" : "DMG",
-		"workhours" : 40.00
-	},
-	{
-		"KEY" : "DMRV",
-		"workhours" : 8.75
-	},
-	{
-		"KEY" : "EGIS",
-		"workhours" : 440.00
-	},
-	{
-		"KEY" : "ERSNYP",
-		"workhours" : 5.00
-	},
-	{
-		"KEY" : "ERSTE",
-		"workhours" : 476.25
-	},
-	{
-		"KEY" : "FFF",
-		"workhours" : 13.00
-	},
-	{
-		"KEY" : "FUN",
-		"workhours" : 15.25
-	},
-	{
-		"KEY" : "GLOSTER",
-		"workhours" : 148.50
-	},
-	{
-		"KEY" : "GSE",
-		"workhours" : 116.75
-	},
-	{
-		"KEY" : "IDS",
-		"workhours" : 52.25
-	},
-	{
-		"KEY" : "INV",
-		"workhours" : 8.75
-	},
-	{
-		"KEY" : "KH",
-		"workhours" : 1661.75
-	},
-	{
-		"KEY" : "LABOR",
-		"workhours" : 8472.25
-	},
-	{
-		"KEY" : "LOX",
-		"workhours" : 25.00
-	},
-	{
-		"KEY" : "MKB",
-		"workhours" : 2178.50
-	},
-	{
-		"KEY" : "MNB",
-		"workhours" : 5091.25
-	},
-	{
-		"KEY" : "MNV",
-		"workhours" : 46.50
-	},
-	{
-		"KEY" : "MT",
-		"workhours" : 15882.75
-	},
-	{
-		"KEY" : "NS",
-		"workhours" : 280.25
-	},
-	{
-		"KEY" : "OTP",
-		"workhours" : 43455.75
-	},
-	{
-		"KEY" : "PEXTUS",
-		"workhours" : 86.25
-	},
-	{
-		"KEY" : "POSTA",
-		"workhours" : 255.25
-	},
-	{
-		"KEY" : "QUEEN",
-		"workhours" : 399.75
-	},
-	{
-		"KEY" : "SHIWAFORCE",
-		"workhours" : 3242.25
-	},
-	{
-		"KEY" : "SIGNAL",
-		"workhours" : 130.75
-	},
-	{
-		"KEY" : "SMARTFIT",
-		"workhours" : 1.00
-	},
-	{
-		"KEY" : "SWFINT",
-		"workhours" : 4.00
-	},
-	{
-		"KEY" : "SZRT",
-		"workhours" : 32.50
-	},
-	{
-		"KEY" : "TARR",
-		"workhours" : 1104.00
-	},
-	{
-		"KEY" : "TSY",
-		"workhours" : 2848.75
-	},
-	{
-		"KEY" : "UHC",
-		"workhours" : 125.00
-	},
-	{
-		"KEY" : "UNI",
-		"workhours" : 442.00
-	},
-	{
-		"KEY" : "UTD",
-		"workhours" : 180.00
-	},
-	{
-		"KEY" : "VODAFONE",
-		"workhours" : 1553.00
-	},
-	{
-		"KEY" : "XSWF",
-		"workhours" : 42658.00
-	}
-]
+[{
+  "id": 1,
+  "first_name": "Jeanette",
+  "last_name": "Penddreth",
+  "email": "jpenddreth0@census.gov",
+  "gender": "Female",
+  "ip_address": "26.58.193.2"
+}, {
+  "id": 2,
+  "first_name": "Giavani",
+  "last_name": "Frediani",
+  "email": "gfrediani1@senate.gov",
+  "gender": "Male",
+  "ip_address": "229.179.4.212"
+}, {
+  "id": 3,
+  "first_name": "Noell",
+  "last_name": "Bea",
+  "email": "nbea2@imageshack.us",
+  "gender": "Female",
+  "ip_address": "180.66.162.255"
+}, {
+  "id": 4,
+  "first_name": "Willard",
+  "last_name": "Valek",
+  "email": "wvalek3@vk.com",
+  "gender": "Male",
+  "ip_address": "67.76.188.26"
+}]
